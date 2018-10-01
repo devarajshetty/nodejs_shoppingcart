@@ -1,0 +1,5 @@
+kill: ps aux | awk '/node/{print $2}' | xargs kill -9
+service mongod start
+
+http://www.scooterengineering.com/wp-content/uploads/2012/06/ss_scooter_px200_restoration-42-300x300.jpg
+
